@@ -59,4 +59,4 @@ To deliver a clear, interactive visual tool that enables users to:
 
 ### Screenshots / Demos
 
-![Healthcare Patient Dashboard]()
+![Healthcare Patient Dashboard](https://github.com/Dhaval-DS/HEALTHCARE-PATIENT-DASHBOARD/blob/main/HealthcarePatient-Dashboard.png)
